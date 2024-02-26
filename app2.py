@@ -8,7 +8,7 @@ gemma = "google/gemma-2b"
 mixtral = "mistralai/Mixtral-8x7B-Instruct-v0.1"
 
 
-huggingface_api = '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'
+huggingface_api = 'add Your Huggingface token'
 os.environ['HUGGINGFACEHUB_API_TOKEN'] = huggingface_api
 
 
