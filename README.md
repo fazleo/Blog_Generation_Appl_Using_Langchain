@@ -1,4 +1,4 @@
-![image](https://github.com/fazleo/Blog_Generation_Appl_Using_Langchain/assets/75975431/b8159fa3-0f5a-4b4a-90a0-c56508cf78e5)# AI Blog Generator
+# AI Blog Generator
 
 This project demonstrates an AI-powered blog generator using HuggingFace Model Like Gemma and Mixtral. The code allows users to input a topic, specify the blog style, select the model, and generate a blog post of a specified length. It utilizes Streamlit for the user interface and Hugging Face models for language generation.
 
