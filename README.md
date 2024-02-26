@@ -22,10 +22,10 @@ This project demonstrates an AI-powered blog generator using HuggingFace Model L
 - Langchain
 - HuggingFace Hub
 
-## Deployed App
-
-You can access the deployed AI Blog Generator application [here](https://huggingface.co/spaces/hellofaz007/blogUsingLangchain).
-
 ## Screenshots
 
 ![AI Blog Generator Screenshot](ai_blog_gen_screenshot.png)
+
+## Deployed App
+
+You can access the deployed AI Blog Generator application [here](https://huggingface.co/spaces/hellofaz007/blogUsingLangchain).
