@@ -9,9 +9,9 @@ This project demonstrates an AI-powered blog generator using HuggingFace Model L
    pip install -r requirements.txt
    ```
 
-2. Run the application by executing `blog_generator.py`:
+2. Run the application by executing `app2.py`:
    ```bash
-   python app2.py
+   streamlit run app2.py
    ```
 
 3. Enter a topic, select the blog style and model, and click "Generate Now" to generate a blog post.
